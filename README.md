@@ -198,6 +198,3 @@ Consult `project-report.pdf` for the full literature review and bibliography, in
 
 Doddi, Gunavenkat. *Eye Diseases Classification*. Kaggle dataset, 2022. https://www.kaggle.com/datasets/gunavenkatdoddi/eye-diseases-classification
 
-## License
-
-No separate open-source license has been specified for this repository. Please confirm the project's ownership, group permissions, and dataset licensing before adding a license or redistributing the materials.
